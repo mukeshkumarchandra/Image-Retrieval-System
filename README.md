@@ -15,7 +15,7 @@ An interactive web app that uses a pre-trained **ResNet-18** model to classify t
 
 ### 🚀 Demo Screenshot
 
-![screenshot](screenshot.png)
+![screenshot](/image%20retriver%20/Image-Retrieval-System/images/tractor.png)
 
 ### 🧠 Model Info
 
